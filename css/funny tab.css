@@ -1,0 +1,48 @@
+* {
+  font-family: fantasy;
+}
+body {
+  width: 50%;
+  margin: auto;
+}
+table {
+  border: 4px solid #483d8b;
+  border-collapse: collapse;
+  width: 90%;
+  margin: 25px;
+}
+
+thead,
+tfoot {
+  background-color: #e6e6fa;
+  border: 2px solid #6a5acd;
+}
+
+tbody {
+  border: 3px solid #6a5acd;
+}
+th {
+  border: 1px solid #6a5acd;
+  padding: 4px;
+  background-color: rgb(231, 194, 245);
+  width: 25%;
+}
+
+td {
+  font-size: 100%;
+  border: 1px dotted #6a5acd;
+  text-align: center;
+  padding: 5px;
+}
+
+td:first-child {
+  text-align: left;
+  background-color: #e6e6fa;
+}
+
+caption {
+  font-size: 30px;
+  color: rgb(81, 0, 128);
+  padding: 1em;
+  background-color: rgb(215, 208, 255);
+}
