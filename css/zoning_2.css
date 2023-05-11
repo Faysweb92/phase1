@@ -1,0 +1,40 @@
+body{
+    color: white;
+}
+#conteneur{width:80%;
+    
+border: 1px solid black; 
+margin: auto;}
+
+header{height: 60px;
+    background-color: rgb(180, 112, 112);}
+
+p{margin:0 ;}
+
+
+nav{background-color: rgb(41, 6, 32);}
+
+main{margin: 5px }
+
+section{background-color: orange;
+   
+}
+
+div.dim{width:50%;
+height: 150px;
+float: left;}
+
+.bordeau{background-color: rgb(114, 30, 30);}
+
+.vert-fonce{background-color: green;}
+
+.vert-claire{background-color:rgb(130, 202, 130) ;}
+
+.bleu{background-color: blue;}
+
+.clear{clear: both;}
+
+footer{height: 60px;
+background-color:rgb(114, 30, 30) ;}
+
+    

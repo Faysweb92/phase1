@@ -1,0 +1,21 @@
+.body{width: 80%;
+margin: 10 px auto;
+font-family: cursive;
+}
+contenu{width:80%;
+}
+
+header,footer{width: auto;
+    height: auto;
+    background-color:red ;}
+nav{width: auto;
+    height: auto;
+    background-color:#4a1a2c ;}
+section{width: auto;
+    height: auto;
+    border:20px solid #787746;}
+p{background-color: #e6e2af;}
+
+
+
+
